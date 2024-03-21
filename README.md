@@ -1,6 +1,7 @@
 # 如何破解wifi密码？
 
 ## aircrack-ng 命令的详细解释
+![C0127 00_06_19_11 Still004](https://github.com/3981877/wifi/assets/60610978/047fd241-0aed-4df0-86a7-4e8088335950)
 
 sudo -i  ：管理员权限
 
