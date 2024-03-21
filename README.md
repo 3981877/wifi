@@ -24,8 +24,9 @@ aircrack-ng -w /home/lingdu/桌面/password.txt -b 60:32:B1:56:3F:B2 /home/lingd
 
 
 ## Github上常用的WPA/WPA2 密码字典+加强版
-![Uploading The-Demise-of-the-Password.jpg…]()
+![The-Demise-of-the-Password](https://github.com/3981877/wifi/assets/60610978/316163ff-1ed1-49f6-b7d8-45a857c92639)
 
-Github字典下载：https://github.com/conwnet/wpa-dictionary
 
-加强版（来源网络）：https://drive.google.com/file/d/1L1mDFRJAcShwU1gBAbECkx7OR_C7Ef90/view?usp=sharing
+- Github字典下载：https://github.com/conwnet/wpa-dictionary
+
+- 加强版（来源网络）：https://drive.google.com/file/d/1L1mDFRJAcShwU1gBAbECkx7OR_C7Ef90/view?usp=sharing
